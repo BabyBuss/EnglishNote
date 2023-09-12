@@ -428,8 +428,8 @@ In this sentence, ***across from*** indicates face to face.
 
 * ***looks on the bright side of things*** = find good things in a bad situation
 
-![pic1](/picture/Tutorial_006_P01.png)
-![pic2](/picture/Tutorial_006_P02.png)
+![pic1](picture/Tutorial_006_P01.png)
+![pic2](picture/Tutorial_006_P02.png)
 
 ---
 
@@ -486,14 +486,62 @@ In this sentence, ***across from*** indicates face to face.
 
 主被动语法总结：
 
-![P01](/picture/Tutorial_008_P01.png)
+![Pic1](picture/Tutorial_008_P01.png)
 
 ---
 
 ## Tutorial 009 We'd Been Hoping for a Romantic Trip
 
-![P01](/picture/Tutorial_009_P01.png)
+![Pic1](picture/Tutorial_009_P01.png)
 
 ---
 
 ## Tutorial 010 Years from Now. The Future Perfect Tense
+
+![Pic1](picture/Tutorial_010_P01.png)
+
+> By the time I finish college, I will have mastered all of the skills I need to succeed.
+
+* ***by the time*** 意味着某个特定点或事件之前或之时。它指的是在某个特定时间点之前发生或完成某个动作或情况。
+
+* “Please finish your homework by the time I come home.” 请在我回家之前完成你的家庭作业。
+
+* > Do you think you will have gotten married before you become a pro athlete? 
+
+* by the time 替换 before
+
+> ***ten years from now*** 十年之后
+
+* 等于in ten years’ time
+
+* in the coming years: 在接下来的几年里
+
+> I think I will have moved someplace warmer by then
+
+* ***by then*** 到那时候，与未来完成时一起使用，表示在某个具体时间点之前已经完成的动作或情况
+
+* “I will have finished my project by then.”（到那时候我将已经完成我的项目。）
+
+## Tutorial 011 A-One-way Ticket, Please
+
+> I am  the same way
+
+* 这句话可以理解为"我也是这样"或"我有同样的感受/想法”。这个表达方式用来表示自己和对话中的另一方有着相似的态度、感受或行为。等价于me too
+
+* A: “I always get nervous before giving a presentation.”（我在做报告之前总是感到紧张。）
+B: “I am the same way. Public speaking makes me anxious too.”（我也是这样。公众演讲让我感到焦虑。）
+
+> Would you like a one-way ticket or a round-trip ticket?
+
+* ***one-way ticket*** 单程票
+***round-trip ticket*** 往返票
+
+> Go past the bookstore and turn right.
+
+* ***go past somewhere*** 经过某处
+
+## Tutorial 012 At the Airport
+
+## Tutorial 013 Cooking Verbs
+
+
